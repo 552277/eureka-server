@@ -1,4 +1,4 @@
-package com.project.eurekaserver;
+package com.wuji.eurekaserver;
 
 /*
 import org.junit.Test;
